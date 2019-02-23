@@ -1,0 +1,31 @@
+_repo: Cosas-de-Espana-tomo-2-El-pais-de-lo-imprevisto_58916
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mesa, Enrique de
+    gutenberg_agent_id: '49627'
+    url: http://www.gutenberg.org/2009/agents/49627
+creator:
+  author:
+    agent_name: Ford, Richard
+    alias: Ford, Ricardo
+    birthdate: 1796
+    deathdate: 1858
+    gutenberg_agent_id: '41260'
+    url: http://www.gutenberg.org/2009/agents/41260
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Ford_%28writer%29
+description: ''
+gutenberg_issued: '2019-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58916'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cosas de España; tomo 2
+
+  (El país de lo imprevisto)'
+url: http://www.gutenberg.org/ebooks/58916
